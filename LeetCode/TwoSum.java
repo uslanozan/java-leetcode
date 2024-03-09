@@ -17,9 +17,6 @@ public class TwoSum {
 //    Output: [0,1]
 //    Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
-    public static int test(){
-        return 1;
-    }
 
     public static int[] twoSum(int[] nums, int target) {
         // Eleman indislerini saklamak için bir HashMap oluşturun
