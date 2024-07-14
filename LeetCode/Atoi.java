@@ -86,7 +86,7 @@ package LeetCode;
 //        0 <= s.length <= 200
 //        s consists of English letters (lower-case and upper-case), digits (0-9), ' ', '+', '-', and '.'.
 
-public class atoi {
+public class Atoi {
 
 
     public static int myAtoi(String s){
