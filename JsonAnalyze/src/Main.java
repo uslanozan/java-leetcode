@@ -32,7 +32,6 @@ public class Main {
         analyzeJSON(testPath);
     }
 
-    @SuppressWarnings("unchecked")
     public static void analyzeJSON(String JSONPath){
         
         JSONParser parser = new JSONParser();
