@@ -1,7 +1,7 @@
 public class MultiThreading {
     public static void main(String[] args) {
 
-        long[] numbers = new long[100_000_000]; // RAM kullanımını düşürmek için 1 milyon eleman
+        long[] numbers = new long[300_000_000]; // RAM kullanımını düşürmek için 1 milyon eleman
         for (int i = 0; i < numbers.length; i++) {
             numbers[i] = i + 1;
         }

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "text": "Yes."
+  },
+  {
+    "id": 2,
+    "text": "I don't know."
+  },
+  {
+    "id": 3,
+    "text": "That's a stupid question."
+  },
+  {
+    "id": 4,
+    "text": "Paris is the capital of France."
+  },
+  {
+    "id": 5,
+    "text": "The answer is quite complex and requires further explanation."
+  },
+  {
+    "id": 6,
+    "text": "What do you mean by that?"
+  },
+  {
+    "id": 7,
+    "text": "It depends on the context."
+  },
+  {
+    "id": 8,
+    "text": "The quick brown fox jumps over the lazy dog."
+  },
+  {
+    "id": 9,
+    "text": "Idiot! This makes no sense at all."
+  },
+  {
+    "id": 10,
+    "text": "Could you explain it in another way?"
+  }
+]
